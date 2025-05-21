@@ -1,0 +1,1 @@
+[17-May-2023 05:07:09 Etc/UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/j1bd739jt478/public_html/bat/phpmailer/PHPMailerAutoload.php on line 45
